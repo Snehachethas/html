@@ -1,0 +1,13 @@
+.data
+{
+font-size: 10px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+border-collapse: collapse;
+font-weight: lighter;
+}
+.data td,.data th
+{
+    border: 1px solid rgb(15, 15, 15);
+}
+.data th:nth-child(even){ background-color: gray;}
+.data th:hover{background-color: ;}

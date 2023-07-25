@@ -1,0 +1,22 @@
+.cat
+{
+border: 2px solid blue;
+background-color: rgb(255, 123, 0);
+}
+.cat h1{
+    text-align: center;
+}
+.cat p
+{
+color: brown;
+background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/220px-Cat_November_2010-1a.jpg");
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+font-size: 25px;
+font-style: italic;
+}
+.cat{
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
